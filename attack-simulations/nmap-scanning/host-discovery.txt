@@ -1,0 +1,10 @@
+# Nmap 7.991 scan initiated Mon Nov  2 00:36:29 2026 as: /usr/lib/nmap/nmap -sn -oN attack-simulations/nmap-scanning/host-discovery.txt 10.0.2.0/24
+Nmap scan report for 10.0.2.2
+Host is up (0.00074s latency).
+MAC Address: 52:54:00:12:35:00 (QEMU virtual NIC)
+Nmap scan report for 10.0.2.3
+Host is up (0.00084s latency).
+MAC Address: 52:54:00:12:35:00 (QEMU virtual NIC)
+Nmap scan report for 10.0.2.15
+Host is up.
+# Nmap done at Mon Nov  2 00:36:33 2026 -- 256 IP addresses (3 hosts up) scanned in 3.62 seconds

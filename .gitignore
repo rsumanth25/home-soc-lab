@@ -1,0 +1,22 @@
+# VirtualBox files
+*.vdi
+*.vbox
+*.vbox-prev
+*.vmdk
+*.ova
+*.ovf
+
+# Installation files
+*.iso
+
+# Sensitive files
+.env
+.env.*
+*.pem
+*.key
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+
